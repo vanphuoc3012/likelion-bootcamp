@@ -23,7 +23,7 @@
 </pre>
 ## API Collection
 ![API Collection](result/all-api-tutorial.png)
-<img src="result/all-api-tutorial.png" width="1280" height="720" title="Restful CRUD API" alt="API collection of demo application">
+### Click [json postman collection file](result/tutorial_demo.postman_collection.json) to see details
 - Create Tutorial: POST /api/tutorials
 - Find All Tutorials: GET /api/tutorials
 - Find Tutorial By Id: GET /api/tutorials/{id}
@@ -32,8 +32,7 @@
 - Delete All Tutorials: DELETE: /api/tutorials
 - Find Tutorial By Published: GET: /api/tutorials/published
 - Find Tutorial By Title: GET: /api/tutorials?title={title}
-
-
+- 
 ## Results
 ### 1. API Create Tutorial
 #### POST /api/tutorials
@@ -66,5 +65,3 @@
 ### 8. Find Tutorial By Title
 #### GET: /api/tutorials?title={title}
 ![Find Tutorial By Title](result/find-tutorial-by-title.png)
-
-### 9. Click [json postman collection file](result/tutorial_demo.postman_collection.json) to see
