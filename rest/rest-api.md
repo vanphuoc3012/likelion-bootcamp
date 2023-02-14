@@ -24,14 +24,14 @@
 ## API Collection
 ![API Collection](result/all-api-tutorial.png)
 <img src="result/all-api-tutorial.png" width="1280" height="720" title="Restful CRUD API" alt="API collection of demo application">
-- Create Tutorial: [POST /api/tutorials](#api-1)
-- Find All Tutorials: [GET /api/tutorials](#api-2)
-- Find Tutorial By Id: [GET /api/tutorials/{id}](#api-3)
-- Update Tutorial: [PUT: /api/tutorials/{id}](#api-4)
-- Delete Tutorial By Id: [DELETE: /api/tutorials/{id}](#api-5)
-- Delete All Tutorials: [DELETE: /api/tutorials](#api-6)
-- Find Tutorial By Published: [GET: /api/tutorials/published](#api-7)
-- Find Tutorial By Title: [GET: /api/tutorials?title={title}]](#api-8)
+- Create Tutorial: POST /api/tutorials
+- Find All Tutorials: GET /api/tutorials
+- Find Tutorial By Id: GET /api/tutorials/{id}
+- Update Tutorial: PUT: /api/tutorials/{id}]
+- Delete Tutorial By Id: DELETE: /api/tutorials/{id}
+- Delete All Tutorials: DELETE: /api/tutorials
+- Find Tutorial By Published: GET: /api/tutorials/published
+- Find Tutorial By Title: GET: /api/tutorials?title={title}
 
 
 ## Results
